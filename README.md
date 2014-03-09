@@ -44,8 +44,8 @@ guides on installing Ruby:
 
 ## Assumptions About Your Environment and Knowledge
 
-In general we assume you don't know anything about RSpec. We do assume you have
-some knowledge of:
+In general we assume you don't have any prior knowledge about RSpec. We do
+assume you have some knowledge of:
 
   * Ruby
   * Bundler and Ruby gems
